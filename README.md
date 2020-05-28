@@ -1,7 +1,4 @@
-# Sample haproxy Configuration 
+# haproxy configuration template 
 
 
 Change it as per your Need!!!
-
-
-Thanks!
